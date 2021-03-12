@@ -20,7 +20,8 @@ var annotated_dup =
       ] ],
       [ "Node", "d9/d49/structdata__structures_1_1_node.html", "d9/d49/structdata__structures_1_1_node" ],
       [ "SkipList", "d4/d90/classdata__structures_1_1_skip_list.html", "d4/d90/classdata__structures_1_1_skip_list" ],
-      [ "trie", "d0/d3e/classdata__structures_1_1trie.html", "d0/d3e/classdata__structures_1_1trie" ]
+      [ "trie", "d0/d3e/classdata__structures_1_1trie.html", "d0/d3e/classdata__structures_1_1trie" ],
+      [ "Trie", "d0/d5b/classdata__structures_1_1_trie.html", "d0/d5b/classdata__structures_1_1_trie" ]
     ] ],
     [ "double_hashing", "d0/d65/namespacedouble__hashing.html", [
       [ "Entry", "d9/dde/structdouble__hashing_1_1_entry.html", "d9/dde/structdouble__hashing_1_1_entry" ]
@@ -100,8 +101,8 @@ var annotated_dup =
     [ "MinHeap", "d2/d05/class_min_heap.html", "d2/d05/class_min_heap" ],
     [ "MinHeapNode", "d5/d29/struct_min_heap_node.html", "d5/d29/struct_min_heap_node" ],
     [ "mst", "d1/d77/structmst.html", "d1/d77/structmst" ],
-    [ "Node", "db/d8b/struct_node.html", "db/d8b/struct_node" ],
     [ "node", "d5/da1/structnode.html", "d5/da1/structnode" ],
+    [ "Node", "db/d8b/struct_node.html", "db/d8b/struct_node" ],
     [ "Point", "d8/dc8/struct_point.html", "d8/dc8/struct_point" ],
     [ "query", "dd/d1b/structquery.html", "dd/d1b/structquery" ],
     [ "queue", "db/da9/classqueue.html", "db/da9/classqueue" ],

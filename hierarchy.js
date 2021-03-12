@@ -39,8 +39,9 @@ var hierarchy =
     [ "machine_learning::neural_network::NeuralNetwork", "d4/df4/classmachine__learning_1_1neural__network_1_1_neural_network.html", null ],
     [ "data_structures::Node", "d9/d49/structdata__structures_1_1_node.html", null ],
     [ "data_structures::tree_234::Node", "dd/d40/classdata__structures_1_1tree__234_1_1_node.html", null ],
-    [ "Node", "db/d8b/struct_node.html", null ],
+    [ "data_structures::Trie::Node", "d6/de8/structdata__structures_1_1_trie_1_1_node.html", null ],
     [ "node< Kind >", "d5/da1/structnode.html", null ],
+    [ "Node", "db/d8b/struct_node.html", null ],
     [ "range_queries::perSegTree::Node", "d5/d66/classrange__queries_1_1per_seg_tree_1_1_node.html", null ],
     [ "node< Type >", "d5/da1/structnode.html", null ],
     [ "range_queries::perSegTree", "d8/d28/classrange__queries_1_1per_seg_tree.html", null ],
@@ -68,6 +69,7 @@ var hierarchy =
       [ "range_queries::heavy_light_decomposition::HLD< X >", "d2/d8a/classrange__queries_1_1heavy__light__decomposition_1_1_h_l_d.html", null ]
     ] ],
     [ "data_structures::tree_234::Tree234", "d3/d95/classdata__structures_1_1tree__234_1_1_tree234.html", null ],
+    [ "data_structures::Trie", "d0/d5b/classdata__structures_1_1_trie.html", null ],
     [ "data_structures::trie", "d0/d3e/classdata__structures_1_1trie.html", null ],
     [ "Trie", "dd/d2f/class_trie.html", null ],
     [ "Trie::TrieNode", "de/d48/struct_trie_1_1_trie_node.html", null ]
