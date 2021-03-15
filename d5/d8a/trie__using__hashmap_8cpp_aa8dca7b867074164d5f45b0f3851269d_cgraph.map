@@ -1,17 +1,17 @@
 <map id="test" name="test">
-<area shape="rect" id="node1" title="Self&#45;test implementations." alt="" coords="5,283,49,309"/>
-<area shape="rect" id="node2" href="$d0/d5b/classdata__structures_1_1_trie.html#a4dbfa35ad40ef0d52f80c6575432c5d4" title="delete a word/string from a trie" alt="" coords="97,93,240,134"/>
-<area shape="rect" id="node8" href="/Users/runner/work/C-Plus-Plus/C-Plus-Plus/doc/cppreference-doxygen-web.tag.xml$cpp/io/manip/endl.html#" title=" " alt="" coords="133,159,205,185"/>
-<area shape="rect" id="node9" href="$d0/d5b/classdata__structures_1_1_trie.html#a1af602c0a24a76b68be8403a493503d8" title="insert the string into the trie" alt="" coords="97,210,240,251"/>
-<area shape="rect" id="node10" href="$d0/d5b/classdata__structures_1_1_trie.html#ad3747138ef929d05a8184c21f89ff945" title="predict/recommend a words that starts with a given prefix" alt="" coords="97,275,240,317"/>
-<area shape="rect" id="node13" href="$d0/d5b/classdata__structures_1_1_trie.html#a5514813ad711432fe0175bcaf84e9360" title="search a word/string exists inside the trie" alt="" coords="97,341,240,382"/>
-<area shape="rect" id="node14" href="/Users/runner/work/C-Plus-Plus/C-Plus-Plus/doc/cppreference-doxygen-web.tag.xml$cpp/container/vector/size.html#" title=" " alt="" coords="111,407,227,433"/>
-<area shape="rect" id="node15" href="$d0/d5b/classdata__structures_1_1_trie.html#a2cb8d9e3a8b9a289a074d59a65eb58f1" title="search a word/string that starts with a given prefix" alt="" coords="97,458,240,499"/>
-<area shape="rect" id="node3" href="/Users/runner/work/C-Plus-Plus/C-Plus-Plus/doc/cppreference-doxygen-web.tag.xml$cpp/string/basic_string/back.html#" title=" " alt="" coords="301,5,417,32"/>
-<area shape="rect" id="node4" href="/Users/runner/work/C-Plus-Plus/C-Plus-Plus/doc/cppreference-doxygen-web.tag.xml$cpp/container/stack/pop.html#" title=" " alt="" coords="305,56,414,83"/>
-<area shape="rect" id="node5" href="/Users/runner/work/C-Plus-Plus/C-Plus-Plus/doc/cppreference-doxygen-web.tag.xml$cpp/string/basic_string/pop_back.html#" title=" " alt="" coords="484,167,628,193"/>
-<area shape="rect" id="node6" href="/Users/runner/work/C-Plus-Plus/C-Plus-Plus/doc/cppreference-doxygen-web.tag.xml$cpp/container/stack/push.html#" title=" " alt="" coords="301,157,417,184"/>
-<area shape="rect" id="node7" href="/Users/runner/work/C-Plus-Plus/C-Plus-Plus/doc/cppreference-doxygen-web.tag.xml$cpp/container/stack/top.html#" title=" " alt="" coords="306,208,413,235"/>
-<area shape="rect" id="node11" href="$d0/d5b/classdata__structures_1_1_trie.html#ac6c9ba24479ed887dceebad2185a3cca" title="helper function to predict/recommend words that starts with a given prefix from the end of prefix&#39;s n..." alt="" coords="288,265,431,306"/>
-<area shape="rect" id="node12" href="/Users/runner/work/C-Plus-Plus/C-Plus-Plus/doc/cppreference-doxygen-web.tag.xml$cpp/container/vector/push_back.html#" title=" " alt="" coords="479,272,633,299"/>
+<area shape="rect" id="node1" title="Self&#45;test implementations." alt="" coords="5,305,49,332"/>
+<area shape="rect" id="node2" href="$d3/d26/classdata__structures_1_1trie__using__hashmap_1_1_trie.html#ac0bf3d6791cba144b3f539835d835e75" title="delete a word/string from a trie" alt="" coords="97,80,248,136"/>
+<area shape="rect" id="node8" href="/Users/runner/work/C-Plus-Plus/C-Plus-Plus/doc/cppreference-doxygen-web.tag.xml$cpp/io/manip/endl.html#" title=" " alt="" coords="137,160,209,187"/>
+<area shape="rect" id="node9" href="$d3/d26/classdata__structures_1_1trie__using__hashmap_1_1_trie.html#abcae0a4456e7f583ce716e3ef466dfd2" title="insert the string into the trie" alt="" coords="97,211,248,267"/>
+<area shape="rect" id="node10" href="$d3/d26/classdata__structures_1_1trie__using__hashmap_1_1_trie.html#acbfd4a79adb242022fa2829740328c17" title="predict/recommend a words that starts with a given prefix" alt="" coords="97,291,248,347"/>
+<area shape="rect" id="node13" href="$d3/d26/classdata__structures_1_1trie__using__hashmap_1_1_trie.html#ad71eb24207c28b546631802dba97310f" title="search a word/string exists inside the trie" alt="" coords="97,371,248,427"/>
+<area shape="rect" id="node14" href="/Users/runner/work/C-Plus-Plus/C-Plus-Plus/doc/cppreference-doxygen-web.tag.xml$cpp/container/vector/size.html#" title=" " alt="" coords="115,451,231,477"/>
+<area shape="rect" id="node15" href="$d3/d26/classdata__structures_1_1trie__using__hashmap_1_1_trie.html#af3aee573fbabd2c1510c0f74f842dd17" title="search a word/string that starts with a given prefix" alt="" coords="97,501,248,557"/>
+<area shape="rect" id="node3" href="/Users/runner/work/C-Plus-Plus/C-Plus-Plus/doc/cppreference-doxygen-web.tag.xml$cpp/string/basic_string/back.html#" title=" " alt="" coords="313,5,429,32"/>
+<area shape="rect" id="node4" href="/Users/runner/work/C-Plus-Plus/C-Plus-Plus/doc/cppreference-doxygen-web.tag.xml$cpp/container/stack/pop.html#" title=" " alt="" coords="317,56,426,83"/>
+<area shape="rect" id="node5" href="/Users/runner/work/C-Plus-Plus/C-Plus-Plus/doc/cppreference-doxygen-web.tag.xml$cpp/string/basic_string/pop_back.html#" title=" " alt="" coords="500,176,644,203"/>
+<area shape="rect" id="node6" href="/Users/runner/work/C-Plus-Plus/C-Plus-Plus/doc/cppreference-doxygen-web.tag.xml$cpp/container/stack/push.html#" title=" " alt="" coords="313,157,429,184"/>
+<area shape="rect" id="node7" href="/Users/runner/work/C-Plus-Plus/C-Plus-Plus/doc/cppreference-doxygen-web.tag.xml$cpp/container/stack/top.html#" title=" " alt="" coords="318,208,425,235"/>
+<area shape="rect" id="node11" href="$d3/d26/classdata__structures_1_1trie__using__hashmap_1_1_trie.html#a5f501b7f1240a58bc082187f22c2fe17" title="helper function to predict/recommend words that starts with a given prefix from the end of prefix&#39;s n..." alt="" coords="296,269,447,325"/>
+<area shape="rect" id="node12" href="/Users/runner/work/C-Plus-Plus/C-Plus-Plus/doc/cppreference-doxygen-web.tag.xml$cpp/container/vector/push_back.html#" title=" " alt="" coords="495,284,649,311"/>
 </map>

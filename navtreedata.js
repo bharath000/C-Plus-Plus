@@ -123,18 +123,18 @@ var NAVTREE =
 
 var NAVTREEINDEX =
 [
-"",
-"cpp/io/manip/boolalpha.html",
-"cpp/string/wide/iswupper.html",
-"d1/dc2/classstack.html#a61370d5fbaf9ec6bca4a8c114c1058e1",
-"d3/dbb/class_cycle_check.html#ae68a1f08ee8c0b6323ab0f281862eadfa0d6bede6610396cc93dae3c1c7dea757",
-"d5/d7a/largest__power_8cpp.html#aa8dca7b867074164d5f45b0f3851269d",
-"d6/dcd/md__c_o_n_t_r_i_b_u_t_i_n_g.html#autotoc_md20",
-"d8/d89/namespacelinear__probing.html#a6a082dc1426a79f866cee6b370df37b0",
-"d9/dfd/comb__sort_8cpp.html#a0f4e7569090083fb53d5cdeaf0e2974f",
-"db/dd3/ode__forward__euler_8cpp.html#abaeae8f62a018d197f0187a1c80a90fe",
-"de/d75/qr__eigen__values_8cpp.html",
-"globals_func_t.html"
+"annotated.html",
+"cpp/iterator/distance.html",
+"cpp/thread/lock.html",
+"d1/df3/hash__search_8cpp.html#af413b1740073db54796642b0ab814d6d",
+"d4/d3e/n__queens_8cpp.html#a40ae0c7fd04eb20e7f3bff13fc6a5808",
+"d5/d90/palindrome__partitioning_8cpp.html#aa8dca7b867074164d5f45b0f3851269d",
+"d7/d1e/graph_2dijkstra_8cpp.html#a454891267187a5ec6c6e3f3ad5203ff1",
+"d8/d99/connected__components__with__dsu_8cpp.html#a67cb7472f310a798f555fe45cdf50145",
+"da/d77/spirograph_8cpp.html#a8e83a64e8443fff1e5ffdc1c299c1e99",
+"dc/d93/classmachine__learning_1_1neural__network_1_1layers_1_1_dense_layer.html#a11046825be0b6dbb73fbe834aa49200e",
+"de/dc3/fibonacci__sum_8cpp.html#a493fbaa7a94e3b7ca573111237bb3742",
+""
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

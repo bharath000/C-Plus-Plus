@@ -24,7 +24,7 @@ var searchData=
   ['defaultfloat_389',['defaultfloat',['http://en.cppreference.com/w/cpp/io/manip/fixed.html',0,'std']]],
   ['defer_5flock_5ft_390',['defer_lock_t',['http://en.cppreference.com/w/cpp/thread/lock_tag_t.html',0,'std']]],
   ['delete_391',['Delete',['../d0/d5f/classoperations__on__datastructures_1_1trie__operations_1_1_tnode.html#aefd24626ac47277431c9b8604e064340',1,'operations_on_datastructures::trie_operations::Tnode']]],
-  ['delete_5fword_392',['delete_word',['../d0/d5b/classdata__structures_1_1_trie.html#a4dbfa35ad40ef0d52f80c6575432c5d4',1,'data_structures::Trie']]],
+  ['delete_5fword_392',['delete_word',['../d3/d26/classdata__structures_1_1trie__using__hashmap_1_1_trie.html#ac0bf3d6791cba144b3f539835d835e75',1,'data_structures::trie_using_hashmap::Trie']]],
   ['deleteelement_393',['deleteElement',['../d4/d90/classdata__structures_1_1_skip_list.html#a86925c53e139cc6c3f7df1e9003bb0b0',1,'data_structures::SkipList']]],
   ['deletefrom_394',['DeleteFrom',['../d0/d5f/classoperations__on__datastructures_1_1trie__operations_1_1_tnode.html#adef6940391f981ab86767775176b7169',1,'operations_on_datastructures::trie_operations::Tnode']]],
   ['deletekey_395',['deleteKey',['../d2/d05/class_min_heap.html#a37ac126eabb0c3ce04047172abccca29',1,'MinHeap']]],
