@@ -1,5 +1,5 @@
 <map id="data_structures::Trie::Node" name="data_structures::Trie::Node">
-<area shape="rect" id="node1" title="struct representing nodes in trie" alt="" coords="18,243,161,284"/>
+<area shape="rect" id="node1" title="struct representing nodes in the trie" alt="" coords="18,243,161,284"/>
 <area shape="rect" id="node2" href="/Users/runner/work/C-Plus-Plus/C-Plus-Plus/doc/cppreference-doxygen-web.tag.xml$cpp/container/unordered_map.html" title=" " alt="" coords="11,109,168,180"/>
 <area shape="rect" id="node3" href="/Users/runner/work/C-Plus-Plus/C-Plus-Plus/doc/cppreference-doxygen-web.tag.xml$cpp/memory/shared_ptr.html" title=" " alt="" coords="5,5,173,47"/>
 </map>

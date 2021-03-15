@@ -21,7 +21,7 @@
 <!-- Node2 -->
 <g id="node2" class="node">
 <title>Node2</title>
-<g id="a_node2"><a xlink:href="../../d0/d5b/classdata__structures_1_1_trie.html#a4dbfa35ad40ef0d52f80c6575432c5d4" target="_top" xlink:title=" ">
+<g id="a_node2"><a xlink:href="../../d0/d5b/classdata__structures_1_1_trie.html#a4dbfa35ad40ef0d52f80c6575432c5d4" target="_top" xlink:title="delete a word/string from a trie">
 <polygon fill="white" stroke="black" points="69,-274.5 69,-304.5 176,-304.5 176,-274.5 69,-274.5"/>
 <text text-anchor="start" x="77" y="-292.5" font-family="Helvetica,sans-Serif" font-size="10.00">data_structures::Trie</text>
 <text text-anchor="middle" x="122.5" y="-281.5" font-family="Helvetica,sans-Serif" font-size="10.00">::delete_word</text>
@@ -52,7 +52,7 @@
 <!-- Node9 -->
 <g id="node9" class="node">
 <title>Node9</title>
-<g id="a_node9"><a xlink:href="../../d0/d5b/classdata__structures_1_1_trie.html#a1af602c0a24a76b68be8403a493503d8" target="_top" xlink:title=" ">
+<g id="a_node9"><a xlink:href="../../d0/d5b/classdata__structures_1_1_trie.html#a1af602c0a24a76b68be8403a493503d8" target="_top" xlink:title="insert the string into the trie">
 <polygon fill="white" stroke="black" points="69,-186.5 69,-216.5 176,-216.5 176,-186.5 69,-186.5"/>
 <text text-anchor="start" x="77" y="-204.5" font-family="Helvetica,sans-Serif" font-size="10.00">data_structures::Trie</text>
 <text text-anchor="middle" x="122.5" y="-193.5" font-family="Helvetica,sans-Serif" font-size="10.00">::insert</text>
@@ -68,7 +68,7 @@
 <!-- Node10 -->
 <g id="node10" class="node">
 <title>Node10</title>
-<g id="a_node10"><a xlink:href="../../d0/d5b/classdata__structures_1_1_trie.html#ad3747138ef929d05a8184c21f89ff945" target="_top" xlink:title=" ">
+<g id="a_node10"><a xlink:href="../../d0/d5b/classdata__structures_1_1_trie.html#ad3747138ef929d05a8184c21f89ff945" target="_top" xlink:title="predict/recommend a words that starts with a given prefix">
 <polygon fill="white" stroke="black" points="69,-137.5 69,-167.5 176,-167.5 176,-137.5 69,-137.5"/>
 <text text-anchor="start" x="77" y="-155.5" font-family="Helvetica,sans-Serif" font-size="10.00">data_structures::Trie</text>
 <text text-anchor="middle" x="122.5" y="-144.5" font-family="Helvetica,sans-Serif" font-size="10.00">::predict_words</text>
@@ -84,7 +84,7 @@
 <!-- Node13 -->
 <g id="node13" class="node">
 <title>Node13</title>
-<g id="a_node13"><a xlink:href="../../d0/d5b/classdata__structures_1_1_trie.html#a5514813ad711432fe0175bcaf84e9360" target="_top" xlink:title=" ">
+<g id="a_node13"><a xlink:href="../../d0/d5b/classdata__structures_1_1_trie.html#a5514813ad711432fe0175bcaf84e9360" target="_top" xlink:title="search a word/string exists inside the trie">
 <polygon fill="white" stroke="black" points="69,-88.5 69,-118.5 176,-118.5 176,-88.5 69,-88.5"/>
 <text text-anchor="start" x="77" y="-106.5" font-family="Helvetica,sans-Serif" font-size="10.00">data_structures::Trie</text>
 <text text-anchor="middle" x="122.5" y="-95.5" font-family="Helvetica,sans-Serif" font-size="10.00">::search</text>
@@ -115,7 +115,7 @@
 <!-- Node15 -->
 <g id="node15" class="node">
 <title>Node15</title>
-<g id="a_node15"><a xlink:href="../../d0/d5b/classdata__structures_1_1_trie.html#a2cb8d9e3a8b9a289a074d59a65eb58f1" target="_top" xlink:title=" ">
+<g id="a_node15"><a xlink:href="../../d0/d5b/classdata__structures_1_1_trie.html#a2cb8d9e3a8b9a289a074d59a65eb58f1" target="_top" xlink:title="search a word/string that starts with a given prefix">
 <polygon fill="white" stroke="black" points="69,-0.5 69,-30.5 176,-30.5 176,-0.5 69,-0.5"/>
 <text text-anchor="start" x="77" y="-18.5" font-family="Helvetica,sans-Serif" font-size="10.00">data_structures::Trie</text>
 <text text-anchor="middle" x="122.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">::startwith</text>
@@ -206,7 +206,7 @@
 <!-- Node11 -->
 <g id="node11" class="node">
 <title>Node11</title>
-<g id="a_node11"><a xlink:href="../../d0/d5b/classdata__structures_1_1_trie.html#ac6c9ba24479ed887dceebad2185a3cca" target="_top" xlink:title=" ">
+<g id="a_node11"><a xlink:href="../../d0/d5b/classdata__structures_1_1_trie.html#ac6c9ba24479ed887dceebad2185a3cca" target="_top" xlink:title="helper function to predict/recommend words that starts with a given prefix from the end of prefix&#39;s n...">
 <polygon fill="white" stroke="black" points="212,-145.5 212,-175.5 319,-175.5 319,-145.5 212,-145.5"/>
 <text text-anchor="start" x="220" y="-163.5" font-family="Helvetica,sans-Serif" font-size="10.00">data_structures::Trie</text>
 <text text-anchor="middle" x="265.5" y="-152.5" font-family="Helvetica,sans-Serif" font-size="10.00">::get_all_words</text>

@@ -1,5 +1,5 @@
 <map id="data_structures::Trie::delete_word" name="data_structures::Trie::delete_word">
-<area shape="rect" id="node1" title=" " alt="" coords="5,99,148,141"/>
+<area shape="rect" id="node1" title="delete a word/string from a trie" alt="" coords="5,99,148,141"/>
 <area shape="rect" id="node2" href="/Users/runner/work/C-Plus-Plus/C-Plus-Plus/doc/cppreference-doxygen-web.tag.xml$cpp/string/basic_string/back.html#" title=" " alt="" coords="210,5,326,32"/>
 <area shape="rect" id="node3" href="/Users/runner/work/C-Plus-Plus/C-Plus-Plus/doc/cppreference-doxygen-web.tag.xml$cpp/container/stack/pop.html#" title=" " alt="" coords="213,56,323,83"/>
 <area shape="rect" id="node4" href="/Users/runner/work/C-Plus-Plus/C-Plus-Plus/doc/cppreference-doxygen-web.tag.xml$cpp/string/basic_string/pop_back.html#" title=" " alt="" coords="196,107,340,133"/>
