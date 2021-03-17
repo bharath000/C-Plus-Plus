@@ -70,7 +70,7 @@
 <!-- Node10 -->
 <g id="node10" class="node">
 <title>Node10</title>
-<g id="a_node10"><a xlink:href="../../d3/d26/classdata__structures_1_1trie__using__hashmap_1_1_trie.html#acbfd4a79adb242022fa2829740328c17" target="_top" xlink:title="predict/recommend a words that starts with a given prefix">
+<g id="a_node10"><a xlink:href="../../d3/d26/classdata__structures_1_1trie__using__hashmap_1_1_trie.html#acbfd4a79adb242022fa2829740328c17" target="_top" xlink:title="predict/recommend a word that starts with a given prefix">
 <polygon fill="white" stroke="black" points="69,-158.5 69,-199.5 182,-199.5 182,-158.5 69,-158.5"/>
 <text text-anchor="start" x="77" y="-187.5" font-family="Helvetica,sans-Serif" font-size="10.00">data_structures::trie</text>
 <text text-anchor="start" x="77" y="-176.5" font-family="Helvetica,sans-Serif" font-size="10.00">_using_hashmap::Trie</text>
@@ -87,7 +87,7 @@
 <!-- Node13 -->
 <g id="node13" class="node">
 <title>Node13</title>
-<g id="a_node13"><a xlink:href="../../d3/d26/classdata__structures_1_1trie__using__hashmap_1_1_trie.html#ad71eb24207c28b546631802dba97310f" target="_top" xlink:title="search a word/string exists inside the trie">
+<g id="a_node13"><a xlink:href="../../d3/d26/classdata__structures_1_1trie__using__hashmap_1_1_trie.html#ad71eb24207c28b546631802dba97310f" target="_top" xlink:title="search a word/string inside the trie">
 <polygon fill="white" stroke="black" points="69,-98.5 69,-139.5 182,-139.5 182,-98.5 69,-98.5"/>
 <text text-anchor="start" x="77" y="-127.5" font-family="Helvetica,sans-Serif" font-size="10.00">data_structures::trie</text>
 <text text-anchor="start" x="77" y="-116.5" font-family="Helvetica,sans-Serif" font-size="10.00">_using_hashmap::Trie</text>

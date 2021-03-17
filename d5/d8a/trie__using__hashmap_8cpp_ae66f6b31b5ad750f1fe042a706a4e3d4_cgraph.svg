@@ -131,7 +131,7 @@ var sectionId = 'dynsection-1';
 <!-- Node11 -->
 <g id="node11" class="node">
 <title>Node11</title>
-<g id="a_node11"><a xlink:href="../../d3/d26/classdata__structures_1_1trie__using__hashmap_1_1_trie.html#acbfd4a79adb242022fa2829740328c17" target="_top" xlink:title="predict/recommend a words that starts with a given prefix">
+<g id="a_node11"><a xlink:href="../../d3/d26/classdata__structures_1_1trie__using__hashmap_1_1_trie.html#acbfd4a79adb242022fa2829740328c17" target="_top" xlink:title="predict/recommend a word that starts with a given prefix">
 <polygon fill="white" stroke="black" points="143,-158.5 143,-199.5 256,-199.5 256,-158.5 143,-158.5"/>
 <text text-anchor="start" x="151" y="-187.5" font-family="Helvetica,sans-Serif" font-size="10.00">data_structures::trie</text>
 <text text-anchor="start" x="151" y="-176.5" font-family="Helvetica,sans-Serif" font-size="10.00">_using_hashmap::Trie</text>
@@ -148,7 +148,7 @@ var sectionId = 'dynsection-1';
 <!-- Node14 -->
 <g id="node14" class="node">
 <title>Node14</title>
-<g id="a_node14"><a xlink:href="../../d3/d26/classdata__structures_1_1trie__using__hashmap_1_1_trie.html#ad71eb24207c28b546631802dba97310f" target="_top" xlink:title="search a word/string exists inside the trie">
+<g id="a_node14"><a xlink:href="../../d3/d26/classdata__structures_1_1trie__using__hashmap_1_1_trie.html#ad71eb24207c28b546631802dba97310f" target="_top" xlink:title="search a word/string inside the trie">
 <polygon fill="white" stroke="black" points="143,-98.5 143,-139.5 256,-139.5 256,-98.5 143,-98.5"/>
 <text text-anchor="start" x="151" y="-127.5" font-family="Helvetica,sans-Serif" font-size="10.00">data_structures::trie</text>
 <text text-anchor="start" x="151" y="-116.5" font-family="Helvetica,sans-Serif" font-size="10.00">_using_hashmap::Trie</text>
