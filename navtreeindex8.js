@@ -1,6 +1,5 @@
 var NAVTREEINDEX8 =
 {
-"da/d77/spirograph_8cpp.html#a525335710b53cb064ca56b936120431e":[10,0,7,0,0],
 "da/d77/spirograph_8cpp.html#a8e83a64e8443fff1e5ffdc1c299c1e99":[10,0,7,0,3],
 "da/d77/spirograph_8cpp.html#aeca22dbe4563358960e907a40cd3e1ac":[10,0,7,0,2],
 "da/d7b/primality__test_8cpp.html":[10,0,15,11],
@@ -249,5 +248,6 @@ var NAVTREEINDEX8 =
 "dc/d61/classgraph_1_1_graph.html#a8839fa14bff19d2deab4a618447c13e5":[9,0,4,1,1],
 "dc/d61/classgraph_1_1_graph.html#a8930d1470d132b19e430d1c71f94c904":[9,0,4,1,4],
 "dc/d61/classgraph_1_1_graph.html#ab1a1a96cd4cddf0d4feb02855c4c16af":[9,0,4,1,3],
-"dc/d61/classgraph_1_1_graph.html#acebf0505d625b043bb9c8c27c7a8def0":[9,0,4,1,5]
+"dc/d61/classgraph_1_1_graph.html#acebf0505d625b043bb9c8c27c7a8def0":[9,0,4,1,5],
+"dc/d93/classmachine__learning_1_1neural__network_1_1layers_1_1_dense_layer.html":[9,0,6,0,0,0]
 };

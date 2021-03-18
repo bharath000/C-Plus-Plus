@@ -141,7 +141,6 @@ var NAVTREEINDEX7 =
 "d9/d5d/extended__euclid__algorithm_8cpp.html#abe92d63a0ff9bda7e304df510d5dd217":[10,0,12,9,3],
 "d9/d5d/extended__euclid__algorithm_8cpp.html#acba15ca55b3e7dcb91f3c65d72ba052d":[10,0,12,9,0],
 "d9/d5d/extended__euclid__algorithm_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[10,0,12,9,2],
-"":[8,0,6,0],
 "d9/d60/namespacerat__maze.html":[8,0,55],
 "d9/d66/group__machine__learning.html":[7,1],
 "d9/d66/group__machine__learning.html#ga5118e5cbc4f0886e27b3a7a2544dded1":[10,0,11,0,5],
@@ -249,5 +248,6 @@ var NAVTREEINDEX7 =
 "da/d5a/class_complex.html#af8aacf982e2e6c142921bc850f6dc974":[9,0,17,4],
 "da/d6d/namespaceoperations__on__datastructures.html":[8,0,45],
 "da/d77/spirograph_8cpp.html":[10,0,7,0],
-"da/d77/spirograph_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627":[10,0,7,0,1]
+"da/d77/spirograph_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627":[10,0,7,0,1],
+"da/d77/spirograph_8cpp.html#a525335710b53cb064ca56b936120431e":[10,0,7,0,0]
 };

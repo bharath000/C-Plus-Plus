@@ -131,8 +131,8 @@ var NAVTREEINDEX =
 "d5/d90/palindrome__partitioning_8cpp.html#aa8dca7b867074164d5f45b0f3851269d",
 "d7/d1e/graph_2dijkstra_8cpp.html#a454891267187a5ec6c6e3f3ad5203ff1",
 "d8/d99/connected__components__with__dsu_8cpp.html#a67cb7472f310a798f555fe45cdf50145",
-"da/d77/spirograph_8cpp.html#a525335710b53cb064ca56b936120431e",
-"dc/d93/classmachine__learning_1_1neural__network_1_1layers_1_1_dense_layer.html",
+"da/d77/spirograph_8cpp.html#a8e83a64e8443fff1e5ffdc1c299c1e99",
+"dc/d93/classmachine__learning_1_1neural__network_1_1layers_1_1_dense_layer.html#a11046825be0b6dbb73fbe834aa49200e",
 "de/dc3/fibonacci__sum_8cpp.html#a493fbaa7a94e3b7ca573111237bb3742",
 ""
 ];
